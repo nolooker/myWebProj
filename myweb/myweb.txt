@@ -1,0 +1,59 @@
+|――――― SpringBoot Proj ―――――|
+https://diary-developer.tistory.com/10 => 이색히 미친넘이네요 존나 잘 알려주네 
+https://diary-developer.tistory.com/9
+
+|――――― SpringBoot Proj ―――――|
+Eclipse Sping Boot 프로젝트
+
+|――――― SpringBoot Proj ―――――|
+Eclipse IDE for Enterprise Java and Web Developers
+
+Eclipse Marketplace -> Spring Tools 4 (aka Sping Tool Suite 4) 4.16.1.RELEASE
+
+Create a project..
+
+Sping Boot -> Sping Starter Project
+
+setting..
+
+|――――― SpringBoot Proj ―――――|
+[RESTful API] MVC pattern
+
+Controller / Service -> GET / POST
+
+Controller -> @RestController
+
+Controller -> mapping(get / post)
+
+Controller -> @Autowired
+
+Service -> @Service
+
+Service -> create method -> Controller
+
+|――――― SpringBoot Proj ―――――|
+Github commit / push -> master
+
+|――――― SpringBoot Proj ―――――|
+oracle DB 연동
+Mybatis
+
+|――――― SpringBoot Proj ―――――|
+step.1 메인페이지
+step.2 로그인/회원가입 하는 화면 만들기
+
+
+
+|――――― SpringBoot Proj ―――――|
+|――――― SpringBoot Proj ―――――|
+|――――― SpringBoot Proj ―――――|
+|――――― SpringBoot Proj ―――――|
+|――――― SpringBoot Proj ―――――|
+|――――― SpringBoot Proj ―――――|
+|――――― SpringBoot Proj ―――――|
+|――――― SpringBoot Proj ―――――|
+|――――― SpringBoot Proj ―――――|
+|――――― SpringBoot Proj ―――――|
+|――――― SpringBoot Proj ―――――|
+|――――― SpringBoot Proj ―――――|
+|――――― SpringBoot Proj ―――――|

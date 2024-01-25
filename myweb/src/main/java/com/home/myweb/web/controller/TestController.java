@@ -18,7 +18,7 @@ public class TestController {
 		
 		String test = testService.getTest();
 		
-		return "myweb";
+		return test;
 	}
 	
 	@PostMapping("/myweb")
@@ -26,7 +26,7 @@ public class TestController {
 		
 		String test = testService.getTest();
 		
-		return "myweb";
+		return test;
 	}
 	
 }
